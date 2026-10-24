@@ -5,10 +5,10 @@ Hi, I'm Prathvi — an engineer who likes building things that move, think, and 
 ## What I've Built
 
 <div align="center">
-  <img src="images/Screenshot 2026-07-26 232514.png" alt="Project Image 1" width="400" loading="lazy"/>
-  <img src="images/Screenshot 2026-07-26 232606.png" alt="Project Image 2" width="400" loading="lazy"/>
-  <img src="images/Screenshot 2026-07-26 232740.png" alt="Project Image 3" width="400" loading="lazy"/>
-  <img src="images/Screenshot 2026-07-26 232835.png" alt="Project Image 4" width="400" loading="lazy"/>
+  <img src="images/Screenshot 2026-07-26 232514.webp" alt="Project Image 1" width="400" loading="lazy"/>
+  <img src="images/Screenshot 2026-07-26 232606.webp" alt="Project Image 2" width="400" loading="lazy"/>
+  <img src="images/Screenshot 2026-07-26 232740.webp" alt="Project Image 3" width="400" loading="lazy"/>
+  <img src="images/Screenshot 2026-07-26 232835.webp" alt="Project Image 4" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -18,8 +18,8 @@ Hi, I'm Prathvi — an engineer who likes building things that move, think, and 
 Built a real-time attitude control system for high-power rockets. Uses sensors and custom firmware to actively adjust fins and keep things stable during flight.
 
 <div align="center">
-  <img src="images/active-fin-stabilization/IMG_20250222_185927.jpg" alt="Active Fin Stabilization 1" width="400" loading="lazy"/>
-  <img src="images/active-fin-stabilization/IMG_20250530_203337.jpg" alt="Active Fin Stabilization 2" width="400" loading="lazy"/>
+  <img src="images/active-fin-stabilization/IMG_20250222_185927.webp" alt="Active Fin Stabilization 1" width="400" loading="lazy"/>
+  <img src="images/active-fin-stabilization/IMG_20250530_203337.webp" alt="Active Fin Stabilization 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -28,8 +28,8 @@ Built a real-time attitude control system for high-power rockets. Uses sensors a
 An autonomous robot for precision farming and harvesting. Part of trying to solve real problems with automation in agriculture.
 
 <div align="center">
-  <img src="images/agribot/IMG_20250316_211211.jpg" alt="Agribot 1" width="400" loading="lazy"/>
-  <img src="images/agribot/IMG_20250326_075737.jpg" alt="Agribot 2" width="400" loading="lazy"/>
+  <img src="images/agribot/IMG_20250316_211211.webp" alt="Agribot 1" width="400" loading="lazy"/>
+  <img src="images/agribot/IMG_20250326_075737.webp" alt="Agribot 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -38,8 +38,8 @@ An autonomous robot for precision farming and harvesting. Part of trying to solv
 Took inspiration from nature for rocket fin design. The idea was to use bio-inspired shapes for better controlled steering in rockets.
 
 <div align="center">
-  <img src="images/bio-inspired-rocketry/Screenshot 2025-04-08 201104.png" alt="Bio-Inspired Rocketry 1" width="400" loading="lazy"/>
-  <img src="images/bio-inspired-rocketry/Screenshot 2025-04-08 212336.png" alt="Bio-Inspired Rocketry 2" width="400" loading="lazy"/>
+  <img src="images/bio-inspired-rocketry/Screenshot 2025-04-08 201104.webp" alt="Bio-Inspired Rocketry 1" width="400" loading="lazy"/>
+  <img src="images/bio-inspired-rocketry/Screenshot 2025-04-08 212336.webp" alt="Bio-Inspired Rocketry 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -48,8 +48,8 @@ Took inspiration from nature for rocket fin design. The idea was to use bio-insp
 An automated system to handle bird problems in agricultural and industrial settings. Practical automation for a real-world nuisance.
 
 <div align="center">
-  <img src="images/bird control/WhatsApp Image 2026-04-29 at 12.04.01.jpeg" alt="Bird Control 1" width="400" loading="lazy"/>
-  <img src="images/bird control/WhatsApp Image 2026-06-13 at 12.02.29 (1).jpeg" alt="Bird Control 2" width="400" loading="lazy"/>
+  <img src="images/bird control/WhatsApp Image 2026-04-29 at 12.04.01.webp" alt="Bird Control 1" width="400" loading="lazy"/>
+  <img src="images/bird control/WhatsApp Image 2026-06-13 at 12.02.29 (1).webp" alt="Bird Control 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -58,8 +58,8 @@ An automated system to handle bird problems in agricultural and industrial setti
 My take on a 5-DOF arm with custom design work. Spent a lot of time on the control systems to get smooth motion.
 
 <div align="center">
-  <img src="images/chimaera-5dof-robotic-arm/IMG_20250628_210058.jpg" alt="Chimaera 5-DOF" width="400" loading="lazy"/>
-  <img src="images/chimaera-5dof-robotic-arm/RENDER1.PNG" alt="Chimaera Render" width="400" loading="lazy"/>
+  <img src="images/chimaera-5dof-robotic-arm/IMG_20250628_210058.webp" alt="Chimaera 5-DOF" width="400" loading="lazy"/>
+  <img src="images/chimaera-5dof-robotic-arm/RENDER1.webp" alt="Chimaera Render" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -68,8 +68,8 @@ My take on a 5-DOF arm with custom design work. Spent a lot of time on the contr
 Built a 2-axis CNC plotter from scratch. Custom mechanics, STM32-based control, and a full workflow from CAD to G-code execution.
 
 <div align="center">
-  <img src="images/cnc-plotter/Screenshot 2026-02-21 124727.png" alt="CNC Plotter 1" width="400" loading="lazy"/>
-  <img src="images/cnc-plotter/WhatsApp Image 2026-02-21 at 12.46.49.jpeg" alt="CNC Plotter 2" width="400" loading="lazy"/>
+  <img src="images/cnc-plotter/Screenshot 2026-02-21 124727.webp" alt="CNC Plotter 1" width="400" loading="lazy"/>
+  <img src="images/cnc-plotter/WhatsApp Image 2026-02-21 at 12.46.49.webp" alt="CNC Plotter 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -78,8 +78,8 @@ Built a 2-axis CNC plotter from scratch. Custom mechanics, STM32-based control, 
 A 3-DOF parallel robot designed for speed. Great for pick-and-place automation. Did a bunch of motion simulation and workspace analysis to optimize the design.
 
 <div align="center">
-  <img src="images/delta-robotic-arm/IMG_20251102_135505.jpg" alt="Delta Robot 1" width="400" loading="lazy"/>
-  <img src="images/delta-robotic-arm/Screenshot 2025-10-09 142118.png" alt="Delta Robot 2" width="400" loading="lazy"/>
+  <img src="images/delta-robotic-arm/IMG_20251102_135505.webp" alt="Delta Robot 1" width="400" loading="lazy"/>
+  <img src="images/delta-robotic-arm/Screenshot 2025-10-09 142118.webp" alt="Delta Robot 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -87,8 +87,8 @@ A 3-DOF parallel robot designed for speed. Great for pick-and-place automation. 
 A simple 4-degree-of-freedom arm for pick-and-place work. Started as a learning project for kinematics and ended up being a solid platform for testing control algorithms.
 
 <div align="center">
-  <img src="images/4dof robotic arm/IMG_20241129_195953.jpg" alt="4-DOF Robotic Arm 1" width="400" loading="lazy"/>
-  <img src="images/4dof robotic arm/IMG_20241207_125614.jpg" alt="4-DOF Robotic Arm 2" width="400" loading="lazy"/>
+  <img src="images/4dof robotic arm/IMG_20241129_195953.webp" alt="4-DOF Robotic Arm 1" width="400" loading="lazy"/>
+  <img src="images/4dof robotic arm/IMG_20241207_125614.webp" alt="4-DOF Robotic Arm 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -97,8 +97,8 @@ A simple 4-degree-of-freedom arm for pick-and-place work. Started as a learning 
 Leveled up to 6 degrees of freedom with this one. Implemented forward and inverse kinematics, trajectory planning, and got the whole thing running on embedded controllers.
 
 <div align="center">
-  <img src="images/6dof-robotic-arm/Screenshot 2025-12-04 160019.png" alt="6-DOF Robotic Arm 1" width="400" loading="lazy"/>
-  <img src="images/6dof-robotic-arm/Screenshot 2025-12-06 163011.png" alt="6-DOF Robotic Arm 2" width="400" loading="lazy"/>
+  <img src="images/6dof-robotic-arm/Screenshot 2025-12-04 160019.webp" alt="6-DOF Robotic Arm 1" width="400" loading="lazy"/>
+  <img src="images/6dof-robotic-arm/Screenshot 2025-12-06 163011.webp" alt="6-DOF Robotic Arm 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -106,7 +106,7 @@ Leveled up to 6 degrees of freedom with this one. Implemented forward and invers
 A machine learning pipeline I put together for data processing and model training. Good learning experience for ML workflows.
 
 <div align="center">
-  <img src="images/higgs-ml-pipeline/images (1).jpg" alt="Higgs ML Pipeline" width="400" loading="lazy"/>
+  <img src="images/higgs-ml-pipeline/images (1).webp" alt="Higgs ML Pipeline" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -115,8 +115,8 @@ A machine learning pipeline I put together for data processing and model trainin
 Built a system to monitor and analyze network traffic. Useful for understanding security issues and performance bottlenecks.
 
 <div align="center">
-  <img src="images/network-traffic-analyzer/img2.png" alt="Network Traffic Analyzer 1" width="400" loading="lazy"/>
-  <img src="images/network-traffic-analyzer/img4.png" alt="Network Traffic Analyzer 2" width="400" loading="lazy"/>
+  <img src="images/network-traffic-analyzer/img2.webp" alt="Network Traffic Analyzer 1" width="400" loading="lazy"/>
+  <img src="images/network-traffic-analyzer/img4.webp" alt="Network Traffic Analyzer 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -125,8 +125,8 @@ Built a system to monitor and analyze network traffic. Useful for understanding 
 A parallel redundant arm design focused on reliability and precision. Redundancy means fewer single points of failure.
 
 <div align="center">
-  <img src="images/prrr-robotic-arm/Screenshot 2026-05-15 230902.png" alt="PRRR Robot 1" width="400" loading="lazy"/>
-  <img src="images/prrr-robotic-arm/WhatsApp Image 2026-05-15 at 22.38.59.jpeg" alt="PRRR Robot 2" width="400" loading="lazy"/>
+  <img src="images/prrr-robotic-arm/Screenshot 2026-05-15 230902.webp" alt="PRRR Robot 1" width="400" loading="lazy"/>
+  <img src="images/prrr-robotic-arm/WhatsApp Image 2026-05-15 at 22.38.59.webp" alt="PRRR Robot 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -135,8 +135,8 @@ A parallel redundant arm design focused on reliability and precision. Redundancy
 A four-legged robot platform. Been working on autonomous navigation and getting it to handle different types of terrain.
 
 <div align="center">
-  <img src="images/quadruped-robot/520874258-7f52d29a-0045-461e-b233-68f5ef354ffb.png" alt="Quadruped Robot 1" width="400" loading="lazy"/>
-  <img src="images/quadruped-robot/Screenshot 2025-11-28 114347.png" alt="Quadruped Robot 2" width="400" loading="lazy"/>
+  <img src="images/quadruped-robot/520874258-7f52d29a-0045-461e-b233-68f5ef354ffb.webp" alt="Quadruped Robot 1" width="400" loading="lazy"/>
+  <img src="images/quadruped-robot/Screenshot 2025-11-28 114347.webp" alt="Quadruped Robot 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -145,8 +145,8 @@ A four-legged robot platform. Been working on autonomous navigation and getting 
 An autonomous inspection robot that uses computer vision and embedded sensors to monitor railway tracks. A mix of vision systems and hardware sensing.
 
 <div align="center">
-  <img src="images/railway-inspection-robot/Screenshot 2026-03-18 160404.png" alt="Railway Robot 1" width="400" loading="lazy"/>
-  <img src="images/railway-inspection-robot/WhatsApp Image 2026-03-18 at 16.04.42.jpeg" alt="Railway Robot 2" width="400" loading="lazy"/>
+  <img src="images/railway-inspection-robot/Screenshot 2026-03-18 160404.webp" alt="Railway Robot 1" width="400" loading="lazy"/>
+  <img src="images/railway-inspection-robot/WhatsApp Image 2026-03-18 at 16.04.42.webp" alt="Railway Robot 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -155,8 +155,8 @@ An autonomous inspection robot that uses computer vision and embedded sensors to
 Designed a custom PCB for a rocket flight computer. Includes thrust-vector control and telemetry systems. PCB design is always satisfying when it works.
 
 <div align="center">
-  <img src="images/rocket-flight-controller-pcb/Screenshot 2026-05-21 202211.png" alt="Flight Controller PCB 1" width="400" loading="lazy"/>
-  <img src="images/rocket-flight-controller-pcb/Screenshot 2026-05-21 202656.png" alt="Flight Controller PCB 2" width="400" loading="lazy"/>
+  <img src="images/rocket-flight-controller-pcb/Screenshot 2026-05-21 202211.webp" alt="Flight Controller PCB 1" width="400" loading="lazy"/>
+  <img src="images/rocket-flight-controller-pcb/Screenshot 2026-05-21 202656.webp" alt="Flight Controller PCB 2" width="400" loading="lazy"/>
 </div>
 
 ---
@@ -165,8 +165,8 @@ Designed a custom PCB for a rocket flight computer. Includes thrust-vector contr
 Built a quadcopter around an STM32 flight controller. Has flight control systems and some autonomous capabilities. Drones are fun but also frustrating to tune.
 
 <div align="center">
-  <img src="images/stm32-quadcopter/IMG_20250325_172036.jpg" alt="Quadcopter 1" width="400" loading="lazy"/>
-  <img src="images/stm32-quadcopter/IMG_20250405_151326.jpg" alt="Quadcopter 2" width="400" loading="lazy"/>
+  <img src="images/stm32-quadcopter/IMG_20250325_172036.webp" alt="Quadcopter 1" width="400" loading="lazy"/>
+  <img src="images/stm32-quadcopter/IMG_20250405_151326.webp" alt="Quadcopter 2" width="400" loading="lazy"/>
 </div>
 
 ---
