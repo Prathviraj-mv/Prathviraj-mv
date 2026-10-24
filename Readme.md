@@ -3,26 +3,17 @@
 Hi, I'm Prathvi — an engineer who likes building things that move, think, and occasionally fly. This repo is a visual gallery of my projects in robotics, embedded systems, rocketry, and AI/ML.
 
 ## What I've Built
-
-### 4-DOF Robotic Arm
-A simple 4-degree-of-freedom arm for pick-and-place work. Started as a learning project for kinematics and ended up being a solid platform for testing control algorithms.
+### 
 
 <div align="center">
-  <img src="images/4dof robotic arm/IMG_20241129_195953.jpg" alt="4-DOF Robotic Arm 1" width="400"/>
-  <img src="images/4dof robotic arm/IMG_20241207_125614.jpg" alt="4-DOF Robotic Arm 2" width="400"/>
+  <img src="images/Screenshot 2026-07-26 232514.png" alt="Project Image 1" width="400"/>
+  <img src="images/Screenshot 2026-07-26 232606.png" alt="Project Image 2" width="400"/>
+  <img src="images/Screenshot 2026-07-26 232740.png" alt="Project Image 3" width="400"/>
+  <img src="images/Screenshot 2026-07-26 232835.png" alt="Project Image 4" width="400"/>
 </div>
 
 ---
 
-### 6-DOF Robotic Arm
-Leveled up to 6 degrees of freedom with this one. Implemented forward and inverse kinematics, trajectory planning, and got the whole thing running on embedded controllers.
-
-<div align="center">
-  <img src="images/6dof-robotic-arm/Screenshot 2025-12-04 160019.png" alt="6-DOF Robotic Arm 1" width="400"/>
-  <img src="images/6dof-robotic-arm/Screenshot 2025-12-06 163011.png" alt="6-DOF Robotic Arm 2" width="400"/>
-</div>
-
----
 
 ### Active Fin Stabilization
 Built a real-time attitude control system for high-power rockets. Uses sensors and custom firmware to actively adjust fins and keep things stable during flight.
@@ -93,7 +84,25 @@ A 3-DOF parallel robot designed for speed. Great for pick-and-place automation. 
 </div>
 
 ---
+### 4-DOF Robotic Arm
+A simple 4-degree-of-freedom arm for pick-and-place work. Started as a learning project for kinematics and ended up being a solid platform for testing control algorithms.
 
+<div align="center">
+  <img src="images/4dof robotic arm/IMG_20241129_195953.jpg" alt="4-DOF Robotic Arm 1" width="400"/>
+  <img src="images/4dof robotic arm/IMG_20241207_125614.jpg" alt="4-DOF Robotic Arm 2" width="400"/>
+</div>
+
+---
+
+### 6-DOF Robotic Arm
+Leveled up to 6 degrees of freedom with this one. Implemented forward and inverse kinematics, trajectory planning, and got the whole thing running on embedded controllers.
+
+<div align="center">
+  <img src="images/6dof-robotic-arm/Screenshot 2025-12-04 160019.png" alt="6-DOF Robotic Arm 1" width="400"/>
+  <img src="images/6dof-robotic-arm/Screenshot 2025-12-06 163011.png" alt="6-DOF Robotic Arm 2" width="400"/>
+</div>
+
+---
 ### Higgs ML Pipeline
 A machine learning pipeline I put together for data processing and model training. Good learning experience for ML workflows.
 
@@ -163,14 +172,7 @@ Built a quadcopter around an STM32 flight controller. Has flight control systems
 
 ---
 
-### Additional Project Images
 
-<div align="center">
-  <img src="images/Screenshot 2026-07-26 232514.png" alt="Project Image 1" width="400"/>
-  <img src="images/Screenshot 2026-07-26 232606.png" alt="Project Image 2" width="400"/>
-  <img src="images/Screenshot 2026-07-26 232740.png" alt="Project Image 3" width="400"/>
-  <img src="images/Screenshot 2026-07-26 232835.png" alt="Project Image 4" width="400"/>
-</div>
 
 ## Achievements
 
