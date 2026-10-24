@@ -1,22 +1,11 @@
-# Prathvi Raj M V - Portfolio Project Gallery
+# Prathvi Raj M V
 
-Welcome to the project gallery showcasing my work in robotics, firmware, control systems, and AI/ML. This repository contains images and documentation of various engineering projects.
+Hi, I'm Prathvi — an engineer who likes building things that move, think, and occasionally fly. This repo is a visual gallery of my projects in robotics, embedded systems, rocketry, and AI/ML.
 
-## Overview
-
-This portfolio demonstrates projects across:
-- **Robotics**: Robotic arms, quadruped robots, inspection robots
-- **Embedded Systems**: STM32 flight computers, quadcopters, PCB design
-- **Rocketry**: Flight controllers, active fin stabilization, bio-inspired designs
-- **IoT & Monitoring**: Water quality monitoring, network traffic analysis
-- **AI/ML**: Machine learning pipelines, vision-guided systems
-
----
-
-## Project Gallery
+## What I've Built
 
 ### 4-DOF Robotic Arm
-A 4-degree-of-freedom robotic manipulator for pick-and-place operations.
+A simple 4-degree-of-freedom arm for pick-and-place work. Started as a learning project for kinematics and ended up being a solid platform for testing control algorithms.
 
 <div align="center">
   <img src="images/4dof robotic arm/IMG_20241129_195953.jpg" alt="4-DOF Robotic Arm 1" width="400"/>
@@ -26,7 +15,7 @@ A 4-degree-of-freedom robotic manipulator for pick-and-place operations.
 ---
 
 ### 6-DOF Robotic Arm
-Custom 6-degree-of-freedom robotic manipulator with forward/inverse kinematics, trajectory planning, and embedded control.
+Leveled up to 6 degrees of freedom with this one. Implemented forward and inverse kinematics, trajectory planning, and got the whole thing running on embedded controllers.
 
 <div align="center">
   <img src="images/6dof-robotic-arm/Screenshot 2025-12-04 160019.png" alt="6-DOF Robotic Arm 1" width="400"/>
@@ -36,7 +25,7 @@ Custom 6-degree-of-freedom robotic manipulator with forward/inverse kinematics, 
 ---
 
 ### Active Fin Stabilization
-Real-time attitude-control system for high-power rocketry using sensors and embedded firmware.
+Built a real-time attitude control system for high-power rockets. Uses sensors and custom firmware to actively adjust fins and keep things stable during flight.
 
 <div align="center">
   <img src="images/active-fin-stabilization/IMG_20250222_185927.jpg" alt="Active Fin Stabilization 1" width="400"/>
@@ -46,7 +35,7 @@ Real-time attitude-control system for high-power rocketry using sensors and embe
 ---
 
 ### Agribot
-Autonomous agricultural robot for precision farming and harvesting operations.
+An autonomous robot for precision farming and harvesting. Part of trying to solve real problems with automation in agriculture.
 
 <div align="center">
   <img src="images/agribot/IMG_20250316_211211.jpg" alt="Agribot 1" width="400"/>
@@ -56,7 +45,7 @@ Autonomous agricultural robot for precision farming and harvesting operations.
 ---
 
 ### Bio-Inspired Rocketry
-Bio-inspired fin design for controlled steering in rocketry applications.
+Took inspiration from nature for rocket fin design. The idea was to use bio-inspired shapes for better controlled steering in rockets.
 
 <div align="center">
   <img src="images/bio-inspired-rocketry/Screenshot 2025-04-08 201104.png" alt="Bio-Inspired Rocketry 1" width="400"/>
@@ -66,7 +55,7 @@ Bio-inspired fin design for controlled steering in rocketry applications.
 ---
 
 ### Bird Control System
-Automated bird control system for agricultural and industrial applications.
+An automated system to handle bird problems in agricultural and industrial settings. Practical automation for a real-world nuisance.
 
 <div align="center">
   <img src="images/bird control/WhatsApp Image 2026-04-29 at 12.04.01.jpeg" alt="Bird Control 1" width="400"/>
@@ -76,7 +65,7 @@ Automated bird control system for agricultural and industrial applications.
 ---
 
 ### Chimaera 5-DOF Robotic Arm
-Advanced 5-degree-of-freedom robotic arm with custom design and control systems.
+My take on a 5-DOF arm with custom design work. Spent a lot of time on the control systems to get smooth motion.
 
 <div align="center">
   <img src="images/chimaera-5dof-robotic-arm/IMG_20250628_210058.jpg" alt="Chimaera 5-DOF" width="400"/>
@@ -86,7 +75,7 @@ Advanced 5-degree-of-freedom robotic arm with custom design and control systems.
 ---
 
 ### CNC Plotter
-2-axis CNC plotting system with custom mechanics, STM32 control, and CAD-to-G-code workflow.
+Built a 2-axis CNC plotter from scratch. Custom mechanics, STM32-based control, and a full workflow from CAD to G-code execution.
 
 <div align="center">
   <img src="images/cnc-plotter/Screenshot 2026-02-21 124727.png" alt="CNC Plotter 1" width="400"/>
@@ -96,7 +85,7 @@ Advanced 5-degree-of-freedom robotic arm with custom design and control systems.
 ---
 
 ### Delta Robotic Arm
-High-speed 3-DOF parallel robot for pick-and-place automation, motion simulation, and workspace analysis.
+A 3-DOF parallel robot designed for speed. Great for pick-and-place automation. Did a bunch of motion simulation and workspace analysis to optimize the design.
 
 <div align="center">
   <img src="images/delta-robotic-arm/IMG_20251102_135505.jpg" alt="Delta Robot 1" width="400"/>
@@ -106,7 +95,7 @@ High-speed 3-DOF parallel robot for pick-and-place automation, motion simulation
 ---
 
 ### Higgs ML Pipeline
-Machine learning pipeline for data processing and model training.
+A machine learning pipeline I put together for data processing and model training. Good learning experience for ML workflows.
 
 <div align="center">
   <img src="images/higgs-ml-pipeline/images (1).jpg" alt="Higgs ML Pipeline" width="400"/>
@@ -115,7 +104,7 @@ Machine learning pipeline for data processing and model training.
 ---
 
 ### Network Traffic Analyzer
-Network monitoring and traffic analysis system for security and performance.
+Built a system to monitor and analyze network traffic. Useful for understanding security issues and performance bottlenecks.
 
 <div align="center">
   <img src="images/network-traffic-analyzer/img2.png" alt="Network Traffic Analyzer 1" width="400"/>
@@ -125,7 +114,7 @@ Network monitoring and traffic analysis system for security and performance.
 ---
 
 ### PRRR Robotic Arm
-Parallel redundant robotic arm design for enhanced reliability and precision.
+A parallel redundant arm design focused on reliability and precision. Redundancy means fewer single points of failure.
 
 <div align="center">
   <img src="images/prrr-robotic-arm/Screenshot 2026-05-15 230902.png" alt="PRRR Robot 1" width="400"/>
@@ -135,7 +124,7 @@ Parallel redundant robotic arm design for enhanced reliability and precision.
 ---
 
 ### Quadruped Robot
-Four-legged robotic platform for autonomous navigation and terrain traversal.
+A four-legged robot platform. Been working on autonomous navigation and getting it to handle different types of terrain.
 
 <div align="center">
   <img src="images/quadruped-robot/520874258-7f52d29a-0045-461e-b233-68f5ef354ffb.png" alt="Quadruped Robot 1" width="400"/>
@@ -145,7 +134,7 @@ Four-legged robotic platform for autonomous navigation and terrain traversal.
 ---
 
 ### Railway Inspection Robot
-Autonomous inspection platform combining computer vision and embedded sensing for track monitoring.
+An autonomous inspection robot that uses computer vision and embedded sensors to monitor railway tracks. A mix of vision systems and hardware sensing.
 
 <div align="center">
   <img src="images/railway-inspection-robot/Screenshot 2026-03-18 160404.png" alt="Railway Robot 1" width="400"/>
@@ -155,7 +144,7 @@ Autonomous inspection platform combining computer vision and embedded sensing fo
 ---
 
 ### Rocket Flight Controller PCB
-Custom PCB design for rocket flight computer with thrust-vector control and telemetry.
+Designed a custom PCB for a rocket flight computer. Includes thrust-vector control and telemetry systems. PCB design is always satisfying when it works.
 
 <div align="center">
   <img src="images/rocket-flight-controller-pcb/Screenshot 2026-05-21 202211.png" alt="Flight Controller PCB 1" width="400"/>
@@ -165,7 +154,7 @@ Custom PCB design for rocket flight computer with thrust-vector control and tele
 ---
 
 ### STM32 Quadcopter
-STM32-based quadcopter with flight control systems and autonomous capabilities.
+Built a quadcopter around an STM32 flight controller. Has flight control systems and some autonomous capabilities. Drones are fun but also frustrating to tune.
 
 <div align="center">
   <img src="images/stm32-quadcopter/IMG_20250325_172036.jpg" alt="Quadcopter 1" width="400"/>
@@ -183,25 +172,23 @@ STM32-based quadcopter with flight control systems and autonomous capabilities.
   <img src="images/Screenshot 2026-07-26 232835.png" alt="Project Image 4" width="400"/>
 </div>
 
----
+## Achievements
 
-## Achievements & Recognition
+- Won 4 hackathons (Creat-a-thon, TECHNOTSAV, EPOCH, Project Expo)
+- Filed 2 patent applications: one for bio-inspired fin design, another for smart telemetric hydro-storage
+- Published 2 papers with IEEE on space robotics and agricultural automation
+- BIRAC E-YUVA Fellow in 2026 for work on smart telemetric hydro-storage orthodontic appliances
 
-- **4 Hackathon Wins** - Creat-a-thon, TECHNOTSAV, EPOCH, Project Expo
-- **2 Patent Applications** - Bio-Inspired Fin Design, Smart Telemetric Hydro-Storage
-- **2 IEEE Publications** - Space robotics and agricultural automation research
-- **BIRAC E-YUVA Fellow '26** - Smart telemetric hydro-storage orthodontic appliance
+## Background
 
-## Education & Experience
+- **Education**: Bachelor of Engineering from JSS Science and Technology University (CGPA: 9.35)
+- **Work**: Firmware summer intern at Western Digital, worked on NAND subsystem validation
 
-- **Bachelor of Engineering** - JSS Science and Technology University (CGPA: 9.35)
-- **Firmware Summer Intern** - Western Digital (NAND Subsystem Validation)
-
-## Contact
+## Get in Touch
 
 - **GitHub**: [Prathviraj-mv](https://github.com/Prathviraj-mv)
-- **Portfolio Website**: View the live portfolio at `index.html`
+- **Portfolio**: Check out `index.html` for the full portfolio website
 
 ---
 
-*Last Updated: October 2026*
+*Updated October 2026*
